@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cameron</h1>
 <h3 align="center">A passionate frontend developer from Oklahoma</h3>
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U5NDA1MGZkNTdkNDhjOWQ5ZGExMzU3NjU4NWEzYTc5NmJkMmIxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameroncrupper&label=Profile%20views&color=0e75b6&style=flat" alt="cameroncrupper" /> </p>
 
